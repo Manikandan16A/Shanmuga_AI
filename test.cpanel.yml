@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - command: git pull origin main
-      working_directory: /home/user/public_html
